@@ -8,3 +8,5 @@ Task 2: Implemented basic lighting, including ambient and diffuse light, to illu
 Task 3: Added specular lighting based on the Phong reflection model, introducing realistic highlights and a dynamic slider to control specular intensity.
 Task 4: Extended functionality to support and blend multiple textures for complex material simulations, enriching the visual detail of rendered objects.
 This project demonstrates skills in JavaScript, WebGL, and shader programming to create interactive and visually compelling 3D graphics. All modifications were made exclusively in project2.js as per the assignment's guidelines.
+
+![Alt Text]https://hizliresim.com/e2vp0sb
