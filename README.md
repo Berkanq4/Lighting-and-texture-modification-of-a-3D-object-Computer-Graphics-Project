@@ -10,3 +10,4 @@ Task 4: Extended functionality to support and blend multiple textures for comple
 This project demonstrates skills in JavaScript, WebGL, and shader programming to create interactive and visually compelling 3D graphics. All modifications were made exclusively in project2.js as per the assignment's guidelines.
 
 ![Alt Text]https://hizliresim.com/e2vp0sb
+![Alt Text] https://hizliresim.com/jmkqofb
